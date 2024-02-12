@@ -25,7 +25,7 @@ Available methods:
 Example usage:
 
 ```python
-from hacashrpc import Account
+from pyhacash import Account
 
 # Generate a new account
 new_account = Account.generate_new_account()
@@ -56,7 +56,7 @@ Available methods:
 Example usage:
 
 ```python
-from hacashrpc import Query
+from pyhacash import Query
 
 # Query account balances
 address_list = "address1,address2,address3"
@@ -80,7 +80,7 @@ Available methods:
 Example usage:
 
 ```python
-from hacashrpc import Transaction
+from pyhacash import Transaction
 
 # Create a new transaction
 sender_address = "sender_address"
@@ -108,7 +108,7 @@ Available methods:
 Example usage:
 
 ```python
-from hacashrpc import Miner
+from pyhacash import Miner
 
 # Increase transaction fee
 txhash = "transaction_hash"

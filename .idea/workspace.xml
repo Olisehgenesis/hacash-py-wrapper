@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b030302b-5d65-4bce-9104-789f99d09da2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hacash/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hacash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/miner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/miner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hacash/transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/transaction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/pyhacash/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/pyhacash/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/miner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/pyhacash/miner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/pyhacash/query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/src/transaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/src/pyhacash/transaction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,8 @@
       <recent name="E:\Code\CrashGame\pyhacash" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\CrashGame\hacash\src\pyhacash" />
+      <recent name="E:\Code\CrashGame\hacash" />
       <recent name="E:\Code\CrashGame\hacash\src" />
     </key>
   </component>
