@@ -1,0 +1,18 @@
+[project]
+name = "pyhacash"
+version = "0.0.1"
+authors = [
+  { name="Oliseh Genesis", email="studyug@hotmail.com" },
+]
+description = "A wrapper for python Hacash Rpc"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Olisehgenesis/hacash-py-wrapper"
+Issues = "https://github.com/Olisehgenesis/hacash-py-wrapper/issues"
