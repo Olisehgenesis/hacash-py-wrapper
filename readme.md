@@ -123,4 +123,3 @@ print(result)
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-You can customize this README.md template further to suit your project's specific needs.
