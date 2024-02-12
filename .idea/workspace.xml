@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b030302b-5d65-4bce-9104-789f99d09da2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hacash/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/pyhacash.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/miner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hacash/transaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hacash/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hacash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hacash/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../hacash" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2cGBxdmGdn5AeJzme7YeIKXMNSQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,6 +92,17 @@
       <updated>1707728284607</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
