@@ -7,7 +7,7 @@ This Python package provides a convenient interface for interacting with Hacash 
 You can install the HacashRPC package using pip:
 
 ```bash
-pip install hacashrpc
+pip install pyhacash
 ```
 
 ## Usage
